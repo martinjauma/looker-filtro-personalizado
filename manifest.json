@@ -1,0 +1,16 @@
+
+{
+  "name": "Filtro personalizado sin contador",
+  "data": {
+    "type": "TABLE",
+    "allowedTypes": ["CATEGORICAL"]
+  },
+  "style": {},
+  "theme": {},
+  "scripts": {
+    "main": "filter_custom.js"
+  },
+  "assets": {
+    "html": "index.html"
+  }
+}
